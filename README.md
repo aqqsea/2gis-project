@@ -1,4 +1,3 @@
-# 2gis-project
 # 2GIS Reviews Analysis
 
 ## Project Overview
